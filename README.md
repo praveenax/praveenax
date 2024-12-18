@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm passionate about coding, game development, and
 🎮 Game Enthusiast: Working on exciting projects like an automation game in React.js and a Monopoly-inspired strategy game.
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenax&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenax&layout=compact&theme=radical)
 
 
