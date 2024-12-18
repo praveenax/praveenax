@@ -2,7 +2,7 @@ Hi there! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, game development, and creating meaningful software solutions. Here's a bit about me:
 
-About Me
+### About Me
 
 💻 Developer: Experienced in full-stack development and game design.
 
@@ -14,7 +14,7 @@ About Me
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenax&layout=compact&theme=radical)
 
 
-🌐 Tech Stack:
+### 🌐 Tech Stack:
 
 Frontend: React.js, Redux, HTML, CSS, JavaScript
 
@@ -26,10 +26,14 @@ Game Development: Unity (C#), Phaser.js
 
 📚 Content Creator: Sharing coding knowledge on my YouTube Channel.
 
+### YouTube Channel Stats
+[![Your YouTube Stats](https://ytstats.vercel.app/api/channel-stats?channelId=UCJ4upfxhwy-4W-Pr1-axhtw)](https://www.youtube.com/channel/UCJ4upfxhwy-4W-Pr1-axhtw)
+
+
 
 <a href="https://app.daily.dev/praveenax"><img src="https://api.daily.dev/devcards/v2/avAULzIhyvm2avAePvlBD.png?r=dal" width="356" alt="Praveen Kumar A X's Dev Card"/></a>
 
-Current Projects
+### Current Projects
 
 🛠 Automation Game: Developing a resource-management game with drag-and-drop mechanics using React.js.
 
@@ -39,16 +43,12 @@ Current Projects
 
 ✍️ Creative Writing: Crafting a dark comedy story about time slipping and paradoxes.
 
-How to Reach Me
+### How to Reach Me
 
 💼 LinkedIn: [praveenax](https://www.linkedin.com/in/praveenax/)
 
 🐦 Twitter: [@praveenax
 ](https://twitter.com/praveenax)
-GitHub Stats
-
-
-
 
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects. Let's build something amazing together! 🚀
