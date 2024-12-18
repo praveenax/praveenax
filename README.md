@@ -8,6 +8,8 @@ About Me
 
 🎮 Game Enthusiast: Working on exciting projects like an automation game in React.js and a Monopoly-inspired strategy game.
 
+<a href="https://app.daily.dev/praveenax"><img src="https://api.daily.dev/devcards/v2/avAULzIhyvm2avAePvlBD.png?r=dal" width="356" alt="Praveen Kumar A X's Dev Card"/></a>
+
 🌐 Tech Stack:
 
 Frontend: React.js, Redux, HTML, CSS, JavaScript
@@ -32,12 +34,10 @@ Current Projects
 
 How to Reach Me
 
-📧 Email: your-email@example.com
+💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/praveenax/)
 
-💼 LinkedIn: Your Profile
-
-🐦 Twitter: @yourhandle
-
+🐦 Twitter: [@praveenax
+](https://twitter.com/praveenax)
 GitHub Stats
 
 
