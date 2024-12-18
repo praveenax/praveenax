@@ -10,6 +10,12 @@ About Me
 
 <a href="https://app.daily.dev/praveenax"><img src="https://api.daily.dev/devcards/v2/avAULzIhyvm2avAePvlBD.png?r=dal" width="356" alt="Praveen Kumar A X's Dev Card"/></a>
 
+Github Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenax&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenax&layout=compact&theme=radical)
+
+
 🌐 Tech Stack:
 
 Frontend: React.js, Redux, HTML, CSS, JavaScript
