@@ -34,7 +34,7 @@ Current Projects
 
 How to Reach Me
 
-💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/praveenax/)
+💼 LinkedIn: [praveenax](https://www.linkedin.com/in/praveenax/)
 
 🐦 Twitter: [@praveenax
 ](https://twitter.com/praveenax)
