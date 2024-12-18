@@ -8,9 +8,7 @@ About Me
 
 🎮 Game Enthusiast: Working on exciting projects like an automation game in React.js and a Monopoly-inspired strategy game.
 
-<a href="https://app.daily.dev/praveenax"><img src="https://api.daily.dev/devcards/v2/avAULzIhyvm2avAePvlBD.png?r=dal" width="356" alt="Praveen Kumar A X's Dev Card"/></a>
 
-Github Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenax&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenax&layout=compact&theme=radical)
@@ -27,6 +25,9 @@ Tools: Git, Webpack, Postman, Docker
 Game Development: Unity (C#), Phaser.js
 
 📚 Content Creator: Sharing coding knowledge on my YouTube Channel.
+
+
+<a href="https://app.daily.dev/praveenax"><img src="https://api.daily.dev/devcards/v2/avAULzIhyvm2avAePvlBD.png?r=dal" width="356" alt="Praveen Kumar A X's Dev Card"/></a>
 
 Current Projects
 
