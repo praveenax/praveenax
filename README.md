@@ -24,8 +24,7 @@ Game Development: Unity (C#), Phaser.js
 
 📚 Content Creator: Sharing coding knowledge on my YouTube Channel.
 
-### YouTube Channel Stats
-[![Your YouTube Stats](https://ytstats.vercel.app/api/channel-stats?channelId=UCJ4upfxhwy-4W-Pr1-axhtw)](https://www.youtube.com/channel/UCJ4upfxhwy-4W-Pr1-axhtw)
+
 
 
 
